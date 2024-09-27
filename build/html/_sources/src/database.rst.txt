@@ -1,0 +1,11 @@
+.. _database:
+
+Database Module
+===============
+
+This module handles database connections and queries.
+
+.. automodule:: database
+   :members:
+   :undoc-members:
+   :show-inheritance:

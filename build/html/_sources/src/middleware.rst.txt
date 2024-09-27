@@ -1,0 +1,11 @@
+.. _middleware:
+
+Middleware Module
+=================
+
+This module contains middleware functionalities.
+
+.. automodule:: middleware
+   :members:
+   :undoc-members:
+   :show-inheritance:
